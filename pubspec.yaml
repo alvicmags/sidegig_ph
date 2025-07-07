@@ -11,6 +11,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  smooth_page_indicator: ^1.1.0
   cupertino_icons: ^1.0.2
 
 dev_dependencies:
@@ -21,7 +22,3 @@ flutter:
   uses-material-design: true
   assets:
     - assets/images/
-  fonts:
-    - family: Roboto
-      fonts:
-        - asset: assets/fonts/Roboto-Regular.ttf
